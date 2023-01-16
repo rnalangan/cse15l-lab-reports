@@ -4,4 +4,4 @@ I didn't have to install VScode, as I already had it installed from when I took 
 However in order to install VScode, you must first have java version 17 or above installed. 
 Next, head over https://code.visualstudio.com/ and follow the installation instrcutions. 
 After installing Vscode, you should be able to launch the program and a window similar to this one should open up.
-![Image](VScodeWindow.png)
+! [Image](VScodeWindow.png)
