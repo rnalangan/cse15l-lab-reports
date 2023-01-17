@@ -23,17 +23,17 @@ You should now see the image below.
 ---
 I tested some commands after on the remote connected terminal such as 
 
--cd 
--ls 
--pwd 
--mkdir
--cp 
--cd~
--ls -lat
--ls -a 
--ls <directory>, where <directory> is /home/linux/ieng6/cs15lwi23abc, where abc is one of the other group members'username
--cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/ 
--cat /home/linux/ieng6/cs15lwi23/public/hello.txt
+- cd 
+- ls 
+- pwd 
+- mkdir
+- cp 
+- cd~
+- ls -lat
+- ls -a 
+- ls <directory>, where <directory> is /home/linux/ieng6/cs15lwi23abc, where abc is one of the other group members'username
+- cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/ 
+- cat /home/linux/ieng6/cs15lwi23/public/hello.txt
   
 It should look something like the image below.
 ![Image](Command.png)
