@@ -21,7 +21,7 @@ You should now see the image below.
 
 ***Step 3: Trying Some Commands***
 ---
-I tested some commands after on the remote connected terminal such as 
+I tested some commands after on the remote connected terminal such as:
 
 - cd 
 - ls 
