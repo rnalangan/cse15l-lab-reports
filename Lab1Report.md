@@ -15,7 +15,7 @@ Type ***ssh cs15lwi23zz@ieng6.ucsd.edu***, where zz are the letters of your cour
 In order to find the letters of course account, go to https://sdacs.ucsd.edu/~icc/index.php and follow the instructions there to lookup your account and reset your password.
 Type yes and enter the password that you created to login into your account. 
 You should now see the image below.
-![Image](RemoteControl)
+![Image](RemoteControl.png)
 
 #***Step 3: Trying Some Commands***1
 ---
@@ -32,4 +32,4 @@ I tested some commands after on the remote connected terminal such as
 *cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/ 
 *cat /home/linux/ieng6/cs15lwi23/public/hello.txt
 It should look something like the image below.
-![Image](Command)
+![Image](Command.png)
