@@ -1,10 +1,10 @@
-#***Step 1: Installing VScode***1
+***Step 1: Installing VScode***
 ---
 I didn't have to install VScode, as I already had it installed from when I took CSE 11. 
 After installing Vscode however, you should be able to open and launch a window similar to the image below.
 ![Image](VScodeWindow.png)
 
-#***Step 2: Remotely Connecting***1
+***Step 2: Remotely Connecting***
 ---
 In order to remotely connect to an online server, you must first install Git for Windows. 
 After the installation is complete, open VScode and open the search bar by holding ***ctrl*** + ***shift*** + ***p***.
@@ -17,7 +17,7 @@ Type yes and enter the password that you created to login into your account.
 You should now see the image below.
 ![Image](RemoteConnect.png)
 
-#***Step 3: Trying Some Commands***1
+***Step 3: Trying Some Commands***
 ---
 I tested some commands after on the remote connected terminal such as 
 *cd 
