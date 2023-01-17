@@ -36,4 +36,5 @@ I tested some commands after on the remote connected terminal such as:
 - cat /home/linux/ieng6/cs15lwi23/public/hello.txt
   
 It should look something like the image below.
+  
 ![Image](CommandTest.png) 
