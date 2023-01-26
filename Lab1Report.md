@@ -1,7 +1,7 @@
 ***Step 1: Installing VScode***
 ---
 I didn't have to install VScode, as I already had it installed from when I took CSE 11. 
-However in order to install VScode, head over to [LINK] https://code.visualstudio.com/, and follow the installation instructions for your respective operating system if that may be Windows or Mac.
+However in order to install VScode, head over to  [https://code.visualstudio.com/], and follow the installation instructions for your respective operating system if that may be Windows or Mac.
 After installing Vscode however, you should be able to open and launch a window similar to the image below.
 
 ![Image](VScodeWindow.png)
@@ -14,7 +14,7 @@ After installing Vscode however, you should be able to open and launch a window 
 4. Select ***Git Bash***.
 5. Next, open a terminal by clicking on the terminal tab at the top of your screen and select ***New Terminal***.
 6. Type `ssh` ***cs15lwi23zz@ieng6.ucsd.edu***, where zz are the letters of your course account.
-7. In order to find the letters of course account, go to [LINK] https://sdacs.ucsd.edu/~icc/index.php and follow the instructions there to lookup your account and reset your password.
+7. In order to find the letters of course account, go to  [https://sdacs.ucsd.edu/~icc/index.php] and follow the instructions there to lookup your account and reset your password.
 8. Type yes and enter the password that you created to login into your account. 
 You should now see the image below.
 
