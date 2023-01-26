@@ -24,9 +24,9 @@ You should now see the image below.
 ---
 I tested some commands after on the remote connected terminal such as:
 
-`- cd` 
-- ls 
-- pwd 
+`cd` 
+`ls` 
+`- pwd 
 - mkdir
 - cp 
 - cd~
