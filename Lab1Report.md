@@ -38,4 +38,4 @@ I tested some commands after on the remote connected terminal such as:
   
 It should look something like the image below.
   
-![Image]() 
+![Image](TestCommand.png) 
