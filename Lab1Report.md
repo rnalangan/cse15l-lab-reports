@@ -1,7 +1,7 @@
 ***Step 1: Installing VScode***
 ---
 I didn't have to install VScode, as I already had it installed from when I took CSE 11. 
-However in order to install VScode, head over to [LINK](https://code.visualstudio.com/), and follow the installation instructions for your respective operating system if that may be Windows or Mac.
+However in order to install VScode, head over to [[LINK](https://code.visualstudio.com/)](https://code.visualstudio.com/), and follow the installation instructions for your respective operating system if that may be Windows or Mac.
 After installing Vscode however, you should be able to open and launch a window similar to the image below.
 
 ![Image](VScodeWindow.png)
