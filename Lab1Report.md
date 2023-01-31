@@ -14,7 +14,7 @@ After installing Vscode however, you should be able to open and launch a window 
 4. Select ***Git Bash***.
 5. Next, open a terminal by clicking on the terminal tab at the top of your screen and select ***New Terminal***.
 6. Type `ssh` ***cs15lwi23zz@ieng6.ucsd.edu***, where zz are the letters of your course account.
-7. In order to find the letters of course account, go to {https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php) and follow the instructions there to lookup your account and reset your password.
+7. In order to find the letters of course account, go to [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php) and follow the instructions there to lookup your account and reset your password.
 8. Type `yes` and enter the password that you created to login into your account. 
 You should now see the image below.
 
