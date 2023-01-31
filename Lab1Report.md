@@ -36,7 +36,7 @@ You should now see the image below.
 - `cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/` 
 - `cat /home/linux/ieng6/cs15lwi23/public/hello.txt`
 
-2. I learned a bit about the processing and command power that remote servers have that our terminals normally don't have. For example, with `cd`, I am able to look into specific directories and with `ls` I am able to see a list of files within that directory in order to see if the file I am looking for is there. There are also some unique commands such as `scp`, which is the secure copy command and it grants us the ability to copy files from one computer to another. All of these commands are valuable for us as we learn more on how to properly use remote servers so that one day, we can create our own remote servers for specified purposes and functions.
+2. I learned a bit about the processing and command power that remote servers have that our terminals normally don't have. For example, with `cd`, I am able to look into specific directories and with `ls`, I am able to see a list of files within that directory in order to see if the file I am looking for is there. There are also some unique commands such as `scp`, which is the secure copy command and it grants us the ability to copy files from one computer to another. All of these commands are valuable for us as we learn more on how to properly use remote servers so that one day, we can create our own remote servers for specified purposes and functions.
   
 It should look something like the image below.
   
