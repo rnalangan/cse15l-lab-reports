@@ -202,3 +202,7 @@ berlitz1/WhereToMadrid.txt
 berlitz1/WhereToMalaysia.txt
 berlitz1/WhereToMallorca.txt
 ```
+
+This feature of the find command is going through the specified directories and finding all files that end in the same keyword specified. Some examples include .txt files, .pdf files, and much more. This is useful to us as we can use this as a way to find all files ending in the same suffix within a short period of time, improving our efficiency of finding the needed files. We can use this to look through and find all .txt files to narrow our search and then we can list out all titles of the .txt files that we may have as shown from above.
+
+***Source:*** [digitalocean.com](https://www.digitalocean.com/community/tutorials/how-to-use-find-and-locate-to-search-for-files-on-linux)
