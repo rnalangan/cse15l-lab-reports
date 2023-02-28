@@ -38,7 +38,7 @@ written_2/travel_guides/berlitz2/Algarve-History.txt
 $ find berlitz1/ -iname whattohawaii.txt
 berlitz1/WhatToHawaii.txt
 ```
-When `-iname` is used with the find command, the system looks through any directories listed within the commandline for any files with the given name disreguarding its capitalization. This is useful for finding specific files despite their name being uppercased or lowercased in case the file was created with created mistakenly with both uppercase and lowercase letters, or in case it was forgotten if the file name contained an uppercase letter.
+When `-iname` is used with the find command, the system looks through any directories listed within the commandline for any files with the given name disreguarding its capitalization. This is useful for finding specific files despite their name being uppercased or lowercased in case the file was created mistakenly with both uppercase and lowercase letters, or in case it was forgotten if the file name contained an uppercase letter.
 
 ***Source:*** [tecmint.com](https://www.tecmint.com/35-practical-examples-of-linux-find-command/)
 
