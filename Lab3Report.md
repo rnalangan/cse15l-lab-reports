@@ -40,7 +40,7 @@ berlitz1/WhatToHawaii.txt
 ```
 When `-iname` is used with the find command, the system looks through any directories listed within the commandline for any files with the given name disreguarding its capitalization. This is useful for finding specific files despite their name being uppercased or lowercased in case the file was created with created mistakenly with both uppercase and lowercase letters, or in case it was forgotten if the file name contained an uppercase letter.
 
-***Source:*** [tecmint.com/](https://www.tecmint.com/35-practical-examples-of-linux-find-command/)
+***Source:*** [tecmint.com](https://www.tecmint.com/35-practical-examples-of-linux-find-command/)
 
 4. Use the find command to search for any readable file with `-perm /u=r`
 ```
@@ -66,4 +66,4 @@ Berk/ch7.txt
 ```
 When `-perm /u=r` is used with the find command, we are given a list of readable files such as .txt files that are located within a specific directory. This is useful for us because it gives us the ability to separate any readable files from other files with similar names. Examples of this include separating readable files such as .txt files from any exectable file that may have the same name as the readable file. 
 
-***Source:*** [tecmint.com/](https://www.tecmint.com/35-practical-examples-of-linux-find-command/)
+***Source:*** [tecmint.com](https://www.tecmint.com/35-practical-examples-of-linux-find-command/)
