@@ -24,7 +24,7 @@ written_2/find-results.txt
 $ find non-fiction/ -empty
 
 ```
-When `-empty` is used with the find command, the system looks through the indicated directory in order to find empty files within them. This is useful for quickly finding files that are created that are still empty when they should have data in them. The first example above shows that there is one file that is empty within the written_2/ directory. The second example above shows us that within the non-fiction/ directory, there are no files that are currently empty within the directory.
+When `-empty` is used with the find command, the system looks through the indicated directory in order to find empty files within them. This is useful for quickly finding files that are created and are still empty when they should have data in them. The first example above shows that there is one file that is empty within the written_2/ directory. The second example above shows us that within the non-fiction/ directory, there are no files that are currently empty within the directory.
 
 ***Source:*** [geeksforgeeks.org](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)
 
