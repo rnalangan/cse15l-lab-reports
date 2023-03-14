@@ -74,5 +74,3 @@ the line number of where it is. This is useful for us as it can help us locate a
 With this feature, we can immediantly locate the line that is causing the error and fix it almost immediantly, instead of wasting time searching for the error manually.
 
 ***Source:*** [cyberciti.biz](https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/)
-
-4. Use the grep command 
