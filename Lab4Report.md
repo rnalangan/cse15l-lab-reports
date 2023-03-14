@@ -1,4 +1,4 @@
-***4 Differet Ways to Use the Grep Command in Bash***
+***3 Differet Ways to Use the Grep Command in Bash***
 ---
 1. Use the grep command to search and display the total number of times a string appears in a file with `-c`
 
